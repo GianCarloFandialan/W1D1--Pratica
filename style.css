@@ -1,0 +1,84 @@
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif, serif;
+}
+
+header{
+  text-align: center;
+}
+
+.logo{
+  width: 200px;
+}
+
+nav{
+  border-top: 2px solid rgb(241, 160, 9);
+  background-color: rgb(255, 255, 221);
+  color: teal;
+  padding: 15px 0;
+}
+
+main{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+h1{
+  text-align: center;
+  font-weight: bold;
+}
+
+.focaccia-image{
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2) ;
+}
+
+.image-author{
+  color: gray;
+  text-align: center;
+}
+
+.focaccia-image{
+  width: 100%;
+  height: 650px;
+  align-self: center;
+  object-fit: cover;
+  object-position: center;
+}
+
+.featured-section{
+  color: rgb(173, 68, 7);
+  font-weight: 700;
+  border-left:  2px solid rgb(241, 160, 9);
+  text-align: left;
+  padding-left: 20px;
+}
+
+.featured-section-introduction{
+  margin-bottom: 0;
+}
+
+a:link{
+  color: teal;
+}
+
+a:visited{
+  color: teal;
+}
+
+a:hover{
+  color: teal;
+}
+
+a:active{
+  color: teal;
+}
+
+h2{
+  border-bottom: 1px teal solid;
+  padding-bottom: 20px;
+}
+
+li{
+  margin-bottom: 20px;
+}
